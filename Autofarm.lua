@@ -51,7 +51,7 @@ local InputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 
 -- Script Variables
-local TravelSpeed = 20
+local TravelSpeed = 50
 local GasEnabled = false
 local CleaningEnabled = false
 local RestockEnabled = false
