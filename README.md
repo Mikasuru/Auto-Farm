@@ -3,5 +3,5 @@
 
 # Usage
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mikasuru/Auto-Farm/refs/heads/main/Autofarm.lua"))()
 ```
